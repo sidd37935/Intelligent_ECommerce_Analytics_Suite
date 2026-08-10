@@ -28,4 +28,3 @@ order_id,order_date,category,product_name,price,quantity,customer_id,region
 27,2024-03-19,Clothing,Formal Shirt,44.99,3,C027,East
 28,2024-03-22,Sports,Football,24.99,6,C028,West
 29,2024-03-25,Home,Microwave,159.99,1,C029,North
-30,2024-03-28,Books,Statistics 101,34.99,4,C030,South
